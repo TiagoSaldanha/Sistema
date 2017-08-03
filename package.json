@@ -1,0 +1,19 @@
+{
+  "name": "sistema",
+  "version": "1.0.0",
+  "description": "site com bower, npm e sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoSaldanha/Sistema.git"
+  },
+  "author": "TiagoSaldanha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiagoSaldanha/Sistema/issues"
+  },
+  "homepage": "https://github.com/TiagoSaldanha/Sistema#readme"
+}
