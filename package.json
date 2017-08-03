@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TiagoSaldanha/Sistema/issues"
   },
-  "homepage": "https://github.com/TiagoSaldanha/Sistema#readme"
+  "homepage": "https://github.com/TiagoSaldanha/Sistema#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
