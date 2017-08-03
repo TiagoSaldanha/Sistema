@@ -4,8 +4,7 @@ var watch = require('gulp-watch');
 
 // Task para o sass
 gulp.task('sass', function(){
-	return sass('sass/**/*.sass').pipe(gulp.dest('css'))
-
+	return sass('sass/**/*.sass').pipe(gulp.dest('css'));
 });
 
 // Task para watch
